@@ -1,0 +1,1 @@
+# permit2-allowance-manager
