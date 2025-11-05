@@ -1,0 +1,17 @@
+{
+  "name": "permit2-allowance-manager",
+  "version": "0.1.0",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.13.1",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/cli.js --help"
+  }
+}
